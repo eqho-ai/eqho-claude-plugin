@@ -1,0 +1,10 @@
+{
+  "name": "eqho",
+  "version": "0.1.0",
+  "description": "Run Eqho voice AI agents, calling campaigns, and call analytics from Claude.",
+  "author": { "name": "Eqho", "url": "https://eqho.ai" },
+  "homepage": "https://eqho.ai",
+  "repository": "https://github.com/eqho-ai/eqho-claude-plugin",
+  "license": "MIT",
+  "keywords": ["voice-ai", "calling", "campaigns", "call-analytics", "sms", "ai-agents"]
+}
